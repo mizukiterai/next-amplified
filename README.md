@@ -1,1 +1,4 @@
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+https://master.d2s4giveh0hzyn.amplifyapp.com/
+CRUD App using 
+Next.JS as Front End
+AWS Amplify as Back End
